@@ -134,13 +134,25 @@ You can deploy this project using: github, VS Code
 - Twitter: [@twitterhandle](https://twitter.com/BossVivekRaj)
 - LinkedIn: [@LinkedIn](https://www.linkedin.com/in/vivek-raj-a78b92256/)
 
+👤 IsaMarvin
+
+- GitHub: [IsaMarvin](https://github.com/IsaMarvin)
+
+👤 José De La Rosa
+
+- GitHub: [@jrraul4](https://github.com/jrraul4)
+- Twitter: [@joserauldelaro1](https://twitter.com/joserauldelaro1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jose-raul-de-la-rosa-98aa70265/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Improving the outlook by implementing the responsive design**
-- [ ] **Styling the heading by using CSS**
+- [ ] **Styling the hamburger botton**
 - [ ] **Adding javascript to create our project more functional**
+- [ ] **Details popup window**
+- [ ] **Validate contact form**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,5 +178,5 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 📝 License
-This project is [MIT](LICENSE.md) licensed.
+This project is [MIT](LICENSE) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
