@@ -137,12 +137,10 @@ if (seeProjectButtons) {
               </span>
             </p>
             <div class="category">
-              <div class="tag">
-                <span>HTML</span>
-                <span>CSS</span>
-                <span>Javascript</span>
-                <span>Ruby</span>
-                <span>Bootstrap</span>
+            <div class="tag">
+              ${workArray.technologies
+    .map((data1) => `<span>${data1}</span>`)
+    .join('')}
               </div>
               <div class="link">
               <a href="${workArray.liveLink}" target="_blank">
